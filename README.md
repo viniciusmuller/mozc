@@ -54,6 +54,8 @@ stable (or equally unstable) in terms of no official QA process.
 [Release History](docs/release_history.md) page may have additional
 information and useful links about recent changes.
 
+<!-- test !-->
+
 License
 -------
 
